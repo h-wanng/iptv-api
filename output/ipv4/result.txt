@@ -1,17 +1,18 @@
 🕘️更新时间,#genre#
-2025-06-17 02:36:27,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-18 02:35:32,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
-CCTV-4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
+CCTV-3,http://121.17.146.34:50003/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV-4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
 CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
+CCTV-7,http://121.17.146.34:50003/hls/7/index.m3u8
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
-CCTV-12,http://121.17.146.178:50003/hls/12/index.m3u8
 CCTV-15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 
@@ -44,23 +45,22 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://119.32.12.17:2901/udp/224.1.100.52:11111
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
-安徽卫视,http://121.17.146.34:50003/hls/46/index.m3u8
 东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111
-东方卫视,http://182.150.23.74:808/hls/19/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://223.241.247.214:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
+东南卫视,http://121.17.146.34:50003/hls/53/index.m3u8
 贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-辽宁卫视,http://39.164.180.36:19901/tsfile/live/0121_1.m3u8
+江苏卫视,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
 辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
