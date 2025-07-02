@@ -1,15 +1,11 @@
 🕘️更新时间,#genre#
-2025-07-02 02:34:27,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-07-03 02:35:16,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
-CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
-CCTV-6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
-CCTV-15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 
 💰央视付费频道,#genre#
@@ -42,7 +38,6 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://119.32.12.17:2901/udp/224.1.100.52:11111
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
@@ -54,7 +49,6 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
