@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-07-06 02:31:05,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-07 02:32:29,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-6,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 
 💰央视付费频道,#genre#
@@ -35,7 +36,7 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1058_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
