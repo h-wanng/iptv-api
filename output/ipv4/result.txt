@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-08-22 02:36:07,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-23 02:34:28,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-7,http://101.66.199.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 
@@ -35,14 +36,15 @@ CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️安徽频道,#genre#
 安徽国际,http://vapi.91kds.cc/live2/ahtv2.m3u8?id=ahgj&apiKey=2079b631b519ec17da0bc09844eb8419
