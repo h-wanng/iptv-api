@@ -1,13 +1,16 @@
 🕘️更新时间,#genre#
-2025-10-28 02:35:27,http://218.19.108.170:808/hls/3/index.m3u8
+2025-10-29 02:38:34,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-4,http://218.19.108.170:808/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-9,http://1.31.14.70:54321/hls/10/index.m3u8
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
+CCTV-4,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
-CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
+CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
@@ -29,21 +32,22 @@ CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
-广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+河北卫视,http://sh.lnott.top:880/dx63.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
-内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
 新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 
 ☘️安徽频道,#genre#
