@@ -1,16 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-15 03:25:20,http://60.10.139.113:8801/hls/2/index.m3u8
+2026-07-16 03:17:43,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
-CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
+CCTV-2,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -34,7 +30,6 @@ CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-重庆卫视,http://60.10.139.113:8801/hls/31/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
@@ -44,7 +39,6 @@ CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
